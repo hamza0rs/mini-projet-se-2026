@@ -1,0 +1,11 @@
+# ==========================================
+# Fichier de Configuration de Processus
+# Format: <nom> <date_arrivee> <duree_cpu>
+# ==========================================
+
+P1 0 5
+P2 2 3
+
+# Ligne blanche et commentaire au milieu
+P3 4 1
+P4 6 4

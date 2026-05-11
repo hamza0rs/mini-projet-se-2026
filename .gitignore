@@ -1,0 +1,8 @@
+# .gitignore
+*.o
+*.out
+build/
+partie1-ordonnanceur/ordonnanceur
+partie2-bras-robotiques/client_bras
+partie2-bras-robotiques/serveur_outils
+.DS_Store
