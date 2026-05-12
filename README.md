@@ -40,3 +40,9 @@ mini-projet-se-2026/
 │   └── conception.md                 # Spécifications de build et formatage
 ├── .gitignore                        # Fichiers ignorés par Git
 └── README.md                         # Ce fichier (Guide d'accueil)
+
+## 🎥 Démonstrations Vidéos
+
+Les vidéos de démonstration pas-à-pas du projet sont disponibles en ligne :
+* 🖥️ **Partie 1 (Ordonnanceur de processus)** : [Cliquez ici pour visionner la vidéo de l'Ordonnanceur](https://youtu.be/RDoOgWz232Y)
+* 🤖 **Partie 2 (Simulation de bras robotiques)** : [Cliquez ici pour visionner la vidéo de la Smart Factory](https://youtu.be/YklPbtODt5c)
