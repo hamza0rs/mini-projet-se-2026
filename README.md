@@ -44,5 +44,5 @@ mini-projet-se-2026/
 ## 🎥 Démonstrations Vidéos
 
 Les vidéos de démonstration pas-à-pas du projet sont disponibles en ligne :
-* 🖥️ **Partie 1 (Ordonnanceur de processus)** : [Cliquez ici pour visionner la vidéo de l'Ordonnanceur](https://youtu.be/RDoOgWz232Y)
-* 🤖 **Partie 2 (Simulation de bras robotiques)** : [Cliquez ici pour visionner la vidéo de la Smart Factory](https://youtu.be/YklPbtODt5c)
+* 🖥️ **Partie 1 (Ordonnanceur de processus)** : https://youtu.be/RDoOgWz232Y
+* 🤖 **Partie 2 (Simulation de bras robotiques)** : https://youtu.be/YklPbtODt5c
